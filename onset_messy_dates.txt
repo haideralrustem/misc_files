@@ -52,3 +52,45 @@ cp to back radiated to lle and then rle
 11/5/2010 am
 chest, back, abdominal, flank
 chest then chest to back pain
+
+
+
+
+// possible words --------
+ 
+
+'back, leg'
+'chest, back, abdominal, flank'
+'back, abdominal, leg'
+' '
+'chest, back, flank'
+'chest, back, abdominal, leg'
+'chest, back, abdominal, leg, flank'
+'cp to back radiated to lle and then rle'
+'chest, back, abdomen'
+'no pain'
+'chest, abdominal'
+'chest, back'
+'10days'
+'chest, back, abdominal, numbness to ble'
+'chest, back , abdominal'
+'chest, back, abdominal'
+'na'
+'chest then chest to back pain'
+'.'
+'two weeks prior to admission'
+'back'
+'back, abdominal'
+'abdominal'
+'chest, abdominal, leg'
+'back, abdominal, flank'
+'chest, back, arm, neck'
+'back, b/l groin pain'
+'chest'
+'chest, abdmoinal'
+'n/a'
+
+Process finished with exit code 1
+
+
+
